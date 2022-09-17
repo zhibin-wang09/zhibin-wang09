@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhibin-wang09
-- 👀 I’m interested in problem solving, playing basektball, watching movies, and listening to music.
+- 👀 I’m interested in problem solving, playing basektball, watching movies,listening to music and of course coding!
 - 🌱 I’m currently a sophomore at Stony Brook University pursuing a Computer Science degree.
 - 💞️ I’m looking to collaborate on anything interesting projects.
 - 📫 How to reach me zhib.wang09@gmail.com
